@@ -61,7 +61,7 @@
   - Suite de pruebas ejecutable.
 
 **<h3>:orange_book: Estructura del Proyecto:</h3>**
-
+```plaintext
 src/
 ├── modelo/
 │     ├── GestorPedidos.java
@@ -74,6 +74,7 @@ src/
       ├── PedidoTest.java
       ├── ProductoTest.java
       └── AllTestsSuite.java 
+```
 
 **<h3>:book: Ejemplo de Salida:</h3>**
 
